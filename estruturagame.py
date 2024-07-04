@@ -1,7 +1,7 @@
 import random
-
+from palavraforca import palavras 
 def jogo_da_forca():
-    palavras = ["estrategia", "inteligencia", "esforco", "melhorar", "persistencia","estudo"]
+    
     palavra_secreta = random.choice(palavras)
     letras_acertadas = ["_"] * len(palavra_secreta)
     letras_chutadas = []

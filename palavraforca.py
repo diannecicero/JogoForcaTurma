@@ -1,0 +1,1 @@
+palavras = ["estrategia", "inteligencia", "esforco", "melhorar", "persistencia","estudo"]
